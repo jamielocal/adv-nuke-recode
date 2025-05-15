@@ -10,3 +10,4 @@
 
 https://dsc.gg/arizaltd
 
+![image](https://github.com/user-attachments/assets/8c028edb-515a-4323-8e4a-fcc9654e6752)
