@@ -1,2 +1,12 @@
-# adv-nuke-recode
-# ADV NUKE  Coded By .wuid / ._.no_._.    NOTE:  Run Config.py First, (Windows Only)   # WARNING  If Not Obvious. THIS IS A **DISCORD NUKER** Be warned While using this..  # IMPORTANT YOU MAY HAVE TO REOPEN THE APP Multiple TIMES!!!
+# Adv Nuke (Advanced Nuker) V2 
+
+- Recoded Branch
+
+- Speed
+- Small
+- Simple
+- Multi OS Support
+- Open Source.
+
+https://dsc.gg/arizaltd
+
